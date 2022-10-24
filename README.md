@@ -1,4 +1,5 @@
-### Hi I'm Roman 👋
+### Hi there.
+I'm Roman 👋
 
 - 🌱 I’m currently learning Python+Django+PostgreSQL
 ##### Stack I use
