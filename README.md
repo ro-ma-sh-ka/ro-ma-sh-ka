@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ro-ma-sh-ka/ro-ma-sh-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python+Django+PostgreSQL
 ##### Stack I use
@@ -18,6 +14,12 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romashka.lrv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ro-ma-sh-ka)
 
+<!--
+
+
+**ro-ma-sh-ka/ro-ma-sh-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 
 ##### Hi, I'm Adam:
@@ -45,17 +47,6 @@ Here are some ideas to get you started:
 
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
-
-⭐️ From [AdamAlston](https://github.com/adamalston)
-
 
 -->
-Telegram 
+
