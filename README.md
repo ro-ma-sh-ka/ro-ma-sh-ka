@@ -1,12 +1,15 @@
 ### Hi there.
 I'm Roman 👋
 
-- 🌱 I’m currently learning Python+Django+PostgreSQL
+- 🌱 I’m learning Python
 ##### Stack I use
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Django](https://img.shields.io/badge/Django-Django-lightgrey)
+![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django)
 ![PostrgreSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi)
+![Tornado](https://img.shields.io/badge/Tornado-000000?style=flat&logo=tornado)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=RabbitMQ)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
